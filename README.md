@@ -1,5 +1,9 @@
 # Guresen Harita Muhendislik Web Sitesi
 
+https://erkamguresen.github.io/GuresenMuhendislikWeb/
+
+https://erkamguresen.github.io/GuresenMuhendislikWeb/paradigm-shift/index.html
+
 ## google maps: JVWM+HV Karesi, Balıkesir, Turkey
 
 ### link
