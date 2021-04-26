@@ -10,6 +10,8 @@ https://erkamguresen.github.io/GuresenMuhendislikWeb/html5up-strata/index.html
 
 https://erkamguresen.github.io/GuresenMuhendislikWeb/html5up-prologue/index.html
 
+https://erkamguresen.github.io/GuresenMuhendislikWeb/html5up-escape-velocity/index.html
+
 ## google maps: JVWM+HV Karesi, Balıkesir, Turkey
 
 ### link
