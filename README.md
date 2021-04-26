@@ -4,6 +4,10 @@ https://erkamguresen.github.io/GuresenMuhendislikWeb/
 
 https://erkamguresen.github.io/GuresenMuhendislikWeb/paradigm-shift/index.html
 
+https://erkamguresen.github.io/GuresenMuhendislikWeb/hyperspace/index.html
+
+https://erkamguresen.github.io/GuresenMuhendislikWeb/strata/index.html
+
 ## google maps: JVWM+HV Karesi, Balıkesir, Turkey
 
 ### link
