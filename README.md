@@ -1,5 +1,9 @@
 # Guresen Harita Muhendislik Web Sitesi
 
+color suggestion
+red #EE1746
+Blue #1F3486
+
 https://erkamguresen.github.io/GuresenMuhendislikWeb/
 
 https://erkamguresen.github.io/GuresenMuhendislikWeb/html5up-paradigm-shift/index.html
